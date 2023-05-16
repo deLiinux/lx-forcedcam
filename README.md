@@ -1,6 +1,6 @@
 # lx-forcedcam
 
-A completely **unexploitable** first person script, forcing you into first person camera when you aim in a car. You can find the link below.
+A completely **unexploitable** first person script, forcing you into first person camera when you aim in a car.
 
 **Features:**
 
